@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">COVID-19 Update</string>
+    <string name="home">Home</string>
+
+    <string name="global">Global</string>
+    <string name="virusCases">Coronavirus Cases</string>
+    <string name="recovered">Recovered</string>
+    <string name="deaths">Deaths</string>
+
+    <string name="activeCases">Active Cases</string>
+    <string name="currently_infected_patients">Currently Infected Patients</string>
+    <string name="in_mild_condition">in Mild Condition</string>
+    <string name="serious_or_critical">Serious or Critical</string>
+
+    <string name="closedCases">Closed Cases</string>
+    <string name="cases_which_had_an_outcome">Cases which had an outcome</string>
+    <string name="recoveredDischarged">Recovered / Discharged</string>
+
+    <string name="country">Country</string>
+    <string name="virus_cases">Virus Cases</string>
+    <string name="todayCases">Today Cases</string>
+    <string name="totalDeaths">Total Deaths</string>
+    <string name="todayDeaths">Today Deaths</string>
+    <string name="active">Active</string>
+    <string name="critical">Critical</string>
+
+    <string name="about_des">
+        Overall coronavirus defection statistics around the world.
+Tracking the number of confirmed cases, recovered patients, tests,
+and the death toll due to the COVID-19 coronavirus.
+Country specific coronavirus defection statistics.
+    </string>
+
+    <string name="dev_des">
+        System Architecture and Application developed by "Subroto Basak Shawon".
+    </string>
+</resources>
